@@ -41,7 +41,7 @@ If you want to use npm for live preview, building assets, etc., follow these ste
 
 #### 1. Clone and Navigate
 ```bash
-git clone https://github.com/your-username/your-repo.git
+(https://github.com/HemantMahajan17/Pashumitra-Welfare-Foundation-Admin-Dashboard.git)
 cd your-repo
 npm install
 npm start
